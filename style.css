@@ -14,13 +14,15 @@ html {
 
 body {
   margin: 0;
-  background: url("./trees.jpg");
+  background: url("./bg3.jpg");
   background-size: cover;
   background-position: 50% 60%;
   background-attachment: fixed;
   color: white;
   font-family: Quicksand, sans-serif;
   overflow-y: hidden;
+
+
 }
 
 h1 {
